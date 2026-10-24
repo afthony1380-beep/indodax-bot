@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">indodax-bot# 3. Install platform Android untuk Capacitornpm install @capacitor/androidnpx cap add android</string>
+    <string name="title_activity_main">indodax-bot# 3. Install platform Android untuk Capacitornpm install @capacitor/androidnpx cap add android</string>
+    <string name="package_name">com.indodax.quantengine.vvip</string>
+    <string name="custom_url_scheme">com.indodax.quantengine.vvip</string>
+</resources>

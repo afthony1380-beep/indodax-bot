@@ -1,0 +1,9 @@
+{
+  "appId": "com.indodax.quantengine.vvip",
+  "appName": "Indodax Quant VVIP",
+  "webDir": "views",
+  "server": {
+    "url": "https://indodax-bot-nu.vercel.app",
+    "cleartext": true
+  }
+}
